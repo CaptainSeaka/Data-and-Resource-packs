@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Ultimate Texture pack",
+        "name": "Ultimate Texture pack",
+        "uuid": "37903e3b-2f93-45b5-b5ca-79a7f63e4601",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 26, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Ultimate Texture Pack",
+            "type": "resources",
+            "uuid": "9f55062d-e3a0-42f0-8e93-2309762b147e",
+            "version": [0, 0, 2]
+        }
+    ]
+}
